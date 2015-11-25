@@ -1,4 +1,4 @@
-package javaapplication26;
+package ejercicio7PSP;
 
 /**
  *

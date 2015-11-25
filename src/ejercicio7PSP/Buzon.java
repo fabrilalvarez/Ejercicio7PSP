@@ -1,4 +1,4 @@
-package javaapplication26;
+package ejercicio7PSP;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

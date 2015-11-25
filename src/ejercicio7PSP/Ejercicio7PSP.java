@@ -5,13 +5,13 @@
  * debe de estar lleno. Crear varios hilos lectores y escritores que manejen el
  * buzón de forma sincronizada.
  */
-package javaapplication26;
+package ejercicio7PSP;
 
 /**
  *
  * @author Fran
  */
-public class JavaApplication26 {
+public class Ejercicio7PSP {
 
     /**
      * @param args the command line arguments
